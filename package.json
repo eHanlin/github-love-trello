@@ -1,0 +1,15 @@
+{
+  "name": "github-love-trello",
+  "version": "0.0.1",
+  "description": "Hotdog said when we push to github, he want to c comments in trello automatically, and want it for free! Ass hole. so we lambda it.",
+  "main": "index.js",
+  "dependencies": {
+    "node-trello": "^1.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rodick",
+  "license": "ISC"
+}
